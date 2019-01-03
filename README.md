@@ -5,7 +5,7 @@ This is the final project for Udacity's [Full Stack Web Developer Nanodegree].
 This page explains how to secure and set up a Linux distribution on a virtual machine, install and configure a web and database server to host a web application. 
 - The Linux distribution is [Ubuntu](https://www.ubuntu.com/download/server) 16.04 LTS.
 - The virtual private server is [Amazon Lighsail](https://lightsail.aws.amazon.com/).
-- The web application is my [Item Catalog project](https://github.com/boisalai/udacity-catalog-app) created earlier in this Nanodegree program.
+- The web application is my [Item Catalog project](https://github.com/Abdelhamedeljinaidi1997/Item_Cat_Config) created earlier in this Nanodegree program.
 - The database server is [PostgreSQL](https://www.postgresql.org/).
 - My local machine.
 
