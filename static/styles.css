@@ -1,0 +1,35 @@
+/* base.html - Change navbar-toggler inside lines color (stroke) */
+.navbar-inverse span.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.picture {
+  width: 35px;
+  height: auto;
+  border-radius: 50%;
+  border: 1px solid white;
+  margin-right: 20px;
+}
+
+/* categories.html */
+.list-group {
+  margin-bottom: 20px;
+}
+
+.add-button {
+  margin-bottom: 4px;
+}
+
+/* delete_item.html */
+.card {
+  margin: 12px 0;
+}
+
+.card-block {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
+
